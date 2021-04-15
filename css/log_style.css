@@ -1,0 +1,35 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background: #FFF;
+}
+.padding{
+	padding: 50px 15px;
+}
+.login{
+	background: #FFF;
+	min-height: 200px;
+	padding: 30px;
+	border-radius: 2px;
+	border: 1px solid #ddd;
+}
+.login input, .login select{
+	font-size: 1.1em;
+	height: 40px;
+	border-radius: 0px;
+	border:none;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	box-shadow: none;
+	font-family: 'Roboto', sans-serif;
+}
+.login input:focus{
+	box-shadow: none;
+}
+.login .input_batt
+{
+	background: #851599;
+	border: none;
+	border-radius: 2px;
+	color: #FFF;
+	font-weight: 700;
+}

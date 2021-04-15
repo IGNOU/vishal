@@ -1,0 +1,73 @@
+body
+{
+	background: #444;
+	font-family: 'Niramit', sans-serif;
+}
+.report_header{
+	background: #353535;
+	padding: 10px 15px;
+	color: #FFF;
+}
+.report_header a{
+	text-transform: uppercase;
+	font-size: 1.2em;
+	color: #FFF;
+	text-decoration: none;
+}
+.report{
+	background: #fff;
+	min-height: 29.7cm;
+	padding: 15px;
+	margin: 20px 0px;
+	min-height: 600px;
+}
+.site_head{
+	font-weight: 500; 
+	font-size: 1.2em; 
+	border-bottom: 0px solid #ddd;
+	padding: 15px 0px;
+}
+.logo_table
+{
+	width: 100%;
+	border: 1px solid #000;
+	border-bottom: none;
+}
+.logo_table td{
+	padding: 8px;
+	text-align: center;
+}
+.table_rep{
+	width: 100%;
+	font-size: 1.2em;
+	border: 1px solid #000;
+}
+.table_rep td{
+	padding: 5px;
+	border: 1px solid #000;
+}
+.table_rep i{font-weight: 400;}
+.amount{
+	width: 250px;
+	height: 50px;
+	font-size: 1.2em;
+	border: 1px solid #333;
+}
+.amount i
+{
+	width: 48px;
+	height: 48px;
+	background: #333;
+	display: inline-block;
+	color: #FFF;
+	font-size: 1.8em;
+	text-align: center;
+	line-height: 48px;
+	font-weight: 200;
+}
+.amount span
+{
+	display: inline-block;
+	font-size: 1.3em;
+	line-height: 30px;
+}

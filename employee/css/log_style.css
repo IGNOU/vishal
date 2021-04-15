@@ -1,0 +1,37 @@
+body{
+	/*background: url(../img/back.jpg) no-repeat;
+	background-size: cover;*/
+	font-family: 'Roboto', sans-serif;
+	/*background: #FFF;*/
+	background: linear-gradient(to left, #00a1d9 0%,#32c8c7 100%);
+}
+.padding{
+	padding: 50px 15px;
+}
+.login{
+	background: #FFF;
+	min-height: 200px;
+	padding: 30px;
+	border-radius: 2px;
+}
+.login input, .login select{
+	font-size: 1.1em;
+	height: 40px;
+	border-radius: 0px;
+	border:none;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	box-shadow: none;
+	font-family: 'Roboto', sans-serif;
+}
+.login input:focus{
+	box-shadow: none;
+}
+.login .input_batt
+{
+	background: #851599;
+	border: none;
+	border-radius: 2px;
+	color: #FFF;
+	font-weight: 700;
+}
